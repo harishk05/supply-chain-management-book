@@ -1,0 +1,5 @@
+# Supply chain management
+
+Supply chain management involves the management of multiple value-creating processes that are typically fragmented and dispersed across organizational and national boundaries. This fragmentation creates opportunities (e.g. lower costs) but also challenges (e.g. longer lead times). Firms therefore need to find a way to exploit the benefits provided by fragmented supply chains, while making sure that the challenges are managed effectively. This course will expose students to several issues involved in managing supply chains, including sourcing, design, coordination, planning and execution. The goal of the course is to develop a framework which can be used to analyze and manage a firm’s supply chain.
+
+The material presented in this book is meant to augment case discussions in class.
